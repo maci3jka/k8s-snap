@@ -4,7 +4,7 @@
 
 To report a security issue, please follow the steps below:
 
-Using GitHub, file a [Private Security Report](https://github.com/canonical/k8s-snap/security/advisories/new) with:
+Using GitHub, file a [Private Security Report](https://github.com/maci3jka/k8s-snap/security/advisories/new) with:
 - A description of the issue
 - Steps to reproduce the issue
 - Affected versions of the `k8s-snap` package
